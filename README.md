@@ -1,24 +1,9 @@
-# README
+# airbnb des chiens
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Auteures:
+Rebecca Bossé
+Charlotte Vaudour
 
-Things you may want to cover:
+application sur rails 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#En cours de Bizeuness Model, tu devais créer une entreprise, et conquérir le monde avec tes SWOTs. À l'époque tu t'étais dit que ce serait une choeutte idée de faire une plateforme où des personnes pourraient promener les chiens, en échange de $€
